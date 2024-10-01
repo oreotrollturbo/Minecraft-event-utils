@@ -1,0 +1,10 @@
+name: EventUtils
+version: '${project.version}'
+main: org.oreo.event_utils.EventUtils
+api-version: '1.20'
+
+commands:
+  event_utils: #simple suicide command
+    description: Commands to facilitate event making for mockas and nyx -XOXO oreo <3
+    usage: /<command>
+    aliases: [event]
